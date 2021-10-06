@@ -19,9 +19,9 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://telegram.dog/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
-- [Inayat](https://github.com/inayat571)
-- [Amaira](https://github.com/xenonNR)
-- [rishav](https://github.com/Denver_es_genial)
+- [Inayat](https://telegram.dog/inayat571)
+- [Amaira](https://telegram.dog/xenonNR)
+- [rishav](https://telegram.dog/Denver_es_genial)
 
 ### Note:
 This was First made by [Aruack](https://github.com/Aruack). And I am very lazy to add README.I made small changes in this repo to make easy for the beginners to deploy.
